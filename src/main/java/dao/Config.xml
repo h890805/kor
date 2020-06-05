@@ -49,7 +49,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
             value="oracle.jdbc.driver.OracleDriver"/>
          <property name="url" 
             value="jdbc:oracle:thin:@localhost:1521:orcl"/>
-         <property name="username" value="APPLE"/>
+         <property name="username" value="blue"/>
          <property name="password" value="1234"/>
         </dataSource>
         <!-- 
